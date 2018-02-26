@@ -1,0 +1,6 @@
+require 'rule/binary_term'
+require 'rule/constant_term'
+require 'rule/keyword_term'
+require 'rule/self_evaluating_rule'
+require 'rule/unary_term'
+require 'rule/variable_term'
